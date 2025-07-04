@@ -37,10 +37,4 @@ Vous trouverez plus d'informations sur les membres dans la rubrique [laboratoire
 
 ## Compte rendu des réunions
 
-- Réunion du SAIN le 19 juin 2025 à 10h
-
 [Lien vers les compte-rendus](/categories/réunion/)
-
-
-## Partage de compétences / connaissances
-- [Liste des séquences mises à disposition par des membres du réseau](https://docs.google.com/spreadsheets/d/1xqKAkidZQKa7aXht2JRGuG61W9NOLRBn0T7JhtaN7WI/edit?usp=sharing)
