@@ -1,5 +1,5 @@
 - disable github actions to check internal links
-
+- la page SAIN pointe vers la page index.md (à la racine du site)
 
 ## Enhancements
 - put tag competence with : https://leafletjs.com/examples/layers-control/
