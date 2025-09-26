@@ -12,7 +12,7 @@ order: 7
 
 ---
 
-## [CERMEP](https://www.cermep.fr) - Lyon/Bron
+## [CERMEP](https://www.cermep.fr) - Bron
 
 CERMEP - imagerie du vivant
 
