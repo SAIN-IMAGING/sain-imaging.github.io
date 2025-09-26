@@ -17,7 +17,7 @@ Pour être ajouté à ces outils veuillez envoyer un mail en y ajoutant votre id
 
 ## Quelles sont les moyens de communication du SAIN ?
 
-### La mailing list du SAIN : sain@univ-grenoble-alpes.fr 
+### La mailing list du SAIN : sain@groupes.renater.fr
 La plupart des discussions ont actuellement lieu par ce moyen.
 
 Pour s'inscrire, il faut contacter [Benjamin Lemasson](mailto:benjamin.lemasson@univ-grenoble-alpes.fr)
