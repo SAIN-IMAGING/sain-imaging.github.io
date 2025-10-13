@@ -1,3 +1,6 @@
+
+# Notes
+
 - disable github actions to check internal links
 - la page SAIN pointe vers la page index.md (à la racine du site)
 
@@ -11,3 +14,7 @@
 In order to make the news page I have created a news/index.html page 
 
 in _config.yml : paginate_path: "/news/page:num/"
+
+# How to
+## Run the site locally
+`bundle exec jekyll serve`
