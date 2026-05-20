@@ -8,14 +8,19 @@ order: 6
 Le SAIN est un réseau d'entraide collaboratif dont la gouvernance est assurée par un bureau composé de 6 membres élus pour une durée de 2 ans.
 
 ## Actuellement en fonction :
-- Depuis 2023
-	- Benjamin Lemasson <benjamin.lemasson@univ-grenoble-alpes.fr>, 
-	- Denis Grenier <Denis.Grenier@creatis.insa-lyon.fr>
-	- Frank Kober <frank.kober@univ-amu.fr>
-	- Pierre-antoine Eliat <pierre-antoine.eliat@univ-rennes.fr>
-	- Sabrina doblas <sabrina.doblas@inserm.fr>
-- Depuis 2025
-	- Chrystel Po <po@unistra.fr>
+
+### Depuis 2023
+- Denis Grenier <Denis.Grenier@creatis.insa-lyon.fr>
+- Frank Kober <frank.kober@univ-amu.fr>
+- Pierre-antoine Eliat <pierre-antoine.eliat@univ-rennes.fr>
+- Sabrina doblas <sabrina.doblas@inserm.fr>
+- 
+### Depuis 2025
+- Chrystel Po <po@unistra.fr>
+  
+### Depuis 2026
+- Vasile Stupar <vasile.stupar@univ-grenoble-alpes.fr>
 
 ## Départ du bureau : 
+- Benjamin Lemasson <benjamin.lemasson@univ-grenoble-alpes.fr> : 2023-2026
 - Emeline RIBOT <emeline.ribot@rmsb.u-bordeaux.fr> : 2023-2025

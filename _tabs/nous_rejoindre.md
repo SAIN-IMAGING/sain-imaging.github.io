@@ -12,7 +12,6 @@ Le SAIN communique à travers 3 outils :
 - Un espace de collaboration Resana
 
 Pour être ajouté à ces outils veuillez envoyer un mail en y ajoutant votre identifiant github à :
-- benjamin.lemasson[at]univ-grenoble-alpes.fr
 - aurelien.trotier[at]rmsb.u-bordeaux.fr
 
 ## Quelles sont les moyens de communication du SAIN ?
@@ -20,7 +19,7 @@ Pour être ajouté à ces outils veuillez envoyer un mail en y ajoutant votre id
 ### La mailing list du SAIN : sain@groupes.renater.fr
 La plupart des discussions ont actuellement lieu par ce moyen.
 
-Pour s'inscrire, il faut contacter [Benjamin Lemasson](mailto:benjamin.lemasson@univ-grenoble-alpes.fr)
+Pour s'inscrire, il faut contacter [Aurélien Trotier](mailto:aurelien.trotier@rmsb.u-bordeaux.fr)
 
 
 ### Le channel discord du SAIN
